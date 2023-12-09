@@ -30,9 +30,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shadowfax191&theme=transparent&hide_border=true&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowfax191&show_icons=true&title_color=034eb0&text_color=ffffff&bg_color=09090b&hide_border=true&locale=en&layout=compact" alt="shadowfax191" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowfax191&show_icons=true&title_color=034eb0&text_color=ffffff&bg_color=09090b&hide_border=true&locale=en" alt="shadowfax191" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shadowfax191&show_icons=true&title_color=034eb0&text_color=ffffff&bg_color=09090b&hide_border=true&locale=en" alt="shadowfax191" /></p>
 
 
