@@ -17,9 +17,9 @@
 
 
 # 📧 Contact:
-<p align="left">
-<a href="https://linkedin.com/in/in/md-shahariar-hossain-356a6b207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-shahariar-hossain-356a6b207" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shahariarhossain123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahariarhossain123/" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/in/md-shahariar-hossain-356a6b207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-shahariar-hossain-356a6b207" height="50" width="50" /></a>
+<a href="https://fb.com/https://www.facebook.com/shahariarhossain123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahariarhossain123/" height="50" width="50" /></a>
 </p>
 
 # 🌐 Languages and Tools:
