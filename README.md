@@ -1,8 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 <h1 align="center">Hi 👋, I'm Md. Shahariar Hossain</h1>
 <h3 align="center">A passionate web developer from BD</h3>
-
-
+<img align="right" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif" alt="HappyFace" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowfax191&label=Profile%20views&color=0e75b6&style=flat" alt="shadowfax191" /> </p>
 
@@ -15,7 +14,7 @@
 - 💬 Ask me about **javascript, react, tailwind**
 
 - 📫 How to reach me **shahariarhossain0599@gmail.com**
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="HappyFace" width="400" >
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
